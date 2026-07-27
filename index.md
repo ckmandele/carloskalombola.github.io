@@ -24,8 +24,7 @@ Web scraping é uma técnica que compreende a recolha de dados de paginas web co
 
 ### [Análise de imagens alimentada por Inteligência artificial para a indústria de energia](https://github.com/carlosmandele/Energ-AI/blob/master/EnergAI_solarpanel_classific_visionartificielle.ipynb)
 
-visão computacional pode ser aplicada em diversas áreas, incluindo na exploração de recursos naturais tais como na agricultura e agro-pecuaria, energia, meio ambiente e silvicultura, pescas e a exploração mineira. No âmbito da energia, a visão computacional pode ser aplicada para identificação e pevenção de futuras perdas, melhorar a eficiência energética, prever a geração de energia e previsão de energia, reduzir os custos operacionais, deteção automática de possíveis defeitos na infraestrutura da rede, reduzir interrupções na rede não planejadas que podem gerar perdas monetárias significativas, entre outras aplicações. Neste projeto, o objetivo é construir um classificador de imagens para um sistema de energias intermitentes (Painel solar limpo vs. Painel solar sujo/danificado) aplicando técnicas de visão computacional, redes neurais, Transfer learning e fine-tuning.
-
+A visão computacional pode ser aplicada em diversas áreas. No âmbito da energia, pode ser aplicada para identificação e pevenção de futuras perdas, melhorar a eficiência energética, prever a geração de energia e previsão de energia, reduzir os custos operacionais, deteção automática de possíveis defeitos na infraestrutura da rede, reduzir interrupções na rede não planejadas que podem gerar perdas monetárias significativas, entre outras aplicações. Neste projeto, o objetivo é construir um classificador de imagens para um sistema de energias intermitentes, aplicando técnicas de aprendizado profundo, redes neurais, Transfer learning e fine-tuning.
 
 
 <img src="images/AIenerg/nergIA.png?raw=true"/>
