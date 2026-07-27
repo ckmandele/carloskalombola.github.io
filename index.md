@@ -3,7 +3,7 @@
 ----
 ### []()
 [![]()](#) [![]()](#) [![]()](#) [![]()](#) [![]()](#)
-### [Wild-Vision: Visão Compuatacional aplicado a fauna e setor florestal](https://github.com/carlosmandele/Wild-vision/blob/main/detection_wild_animal_species_modeloYOLO.ipynb)
+### [Wild-Vision: Visão Computacional aplicado a Fauna/florestal e Ecologia](https://github.com/carlosmandele/Wild-vision/blob/main/detection_wild_animal_species_modeloYOLO.ipynb)
 
 O objetivo deste projeto é demonstrar como treinar um modelo pré‑treinado de visão computacional para detecção de objetos em um conjunto de dados personalizado, utilizando técnicas de transfer learning e fine‑tuning.
 
