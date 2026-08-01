@@ -12,7 +12,7 @@ O objetivo deste projeto é demonstrar como treinar um modelo pré‑treinado de
 
 
 
-### [Web Scraping: Automatizando uma recolha de dados na web com Python](https://github.com/carlosmandele/Coleta-de-dados-na-Web/blob/master/robot_selenium_Data_collectionweb.py)
+### [Web Scraping: Automatizando uma recolha de dados na web com Python](https://github.com/carlosmandele/Coleta-de-dados-na-Web/blob/master/robot_selenium_Data_collectionweb_V1.1.ipynb)
 
 Web scraping é uma técnica que compreende a recolha de dados de paginas web com objetivo de extrair informações específicas. Neste projeto, o objetivo é extair informações de forma automatizada sobre as condições do mar em Tadoussac (Canadá) para os próximos sete dias.
 
